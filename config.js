@@ -7,10 +7,10 @@ const CONFIG = {
     btnYes: 'anh yêu em bé nhìu nhắmmmm',
     btnNo: 'khum iu khum iu',
     question:'đừng có tự nhiên cãi nhau vì mấy cái đâu đâu nữa nha trời',
-    btnReply: 'anh biết oy hong z nữa anh iu em nhìu',
-    reply: 'love u',
+    btnReply: 'bấm típ ih',
+    reply: 'anh biết oy hong z nữa anh iu em nhìu',
     mess: 'baby boo cua emmmm',
-    messDesc: 'iu em hong',
-    btnAccept: 'iu nhieu nham <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'có iu em hongggg',
+    btnAccept: 'cooooo',
+    messLink: 'https://www.facebook.com/khanhdoan2609'
 }
