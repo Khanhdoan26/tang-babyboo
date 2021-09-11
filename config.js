@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'anh biết oy hong z nữa anh iu em nhìuu',
     mess: 'baby boo cua emmmm',
     messDesc: 'có iu em honggggg',
-    btnAccept: 'cooooo',
+    btnAccept: 'cóooooooo',
     messLink: 'https://www.facebook.com/khanhdoan2609'
 }
