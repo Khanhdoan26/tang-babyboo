@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'bấm típ ih',
     reply: 'anh biết oy hong z nữa anh iu em nhìuu',
     mess: 'baby boo cua emmmm',
-    messDesc: 'có iu em hongggg',
+    messDesc: 'có iu em honggggg',
     btnAccept: 'cooooo',
     messLink: 'https://www.facebook.com/khanhdoan2609'
 }
